@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DersDemo_Ado_XmlAndCache", "DersDemo_Ado_XmlAndCache\DersDemo_Ado_XmlAndCache.csproj", "{C77C4DE3-08DA-4288-AAD8-3440FB0F738A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deneme", "Deneme\Deneme.csproj", "{2383132F-45A5-41B0-999F-A57214897E41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C77C4DE3-08DA-4288-AAD8-3440FB0F738A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C77C4DE3-08DA-4288-AAD8-3440FB0F738A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C77C4DE3-08DA-4288-AAD8-3440FB0F738A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C77C4DE3-08DA-4288-AAD8-3440FB0F738A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2383132F-45A5-41B0-999F-A57214897E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2383132F-45A5-41B0-999F-A57214897E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2383132F-45A5-41B0-999F-A57214897E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2383132F-45A5-41B0-999F-A57214897E41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
